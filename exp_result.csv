@@ -1,0 +1,5 @@
+accuracy,ap,auc,batch_size,clip,conv_name,depth,dropout,epoch,loss,max_epochs,n_heads,n_hid,n_layers,optimizer,path_feat_db,path_g,patience,sample_method,seed,width
+0.5,0.5,0.0,"(128, 32)",0.25,het-emb,6,0.2,"(5,)",4.244641780853272,5,8,400,6,adamw,./data/feat_store_publish.db,./data/g_publish.parquet,64,sage,3030,16
+0.5,0.5,0.0,"(128, 32)",0.25,het-emb,6,0.2,"(5,)",4.244641780853272,5,8,400,6,adamw,./data/feat_store_publish.db,./data/g_publish.parquet,64,sage,3030,16
+0.5,0.5,0.0,"(128, 32)",0.25,het-emb,6,0.2,"(5,)",4.244641780853272,5,8,400,6,adamw,./data/feat_store_publish.db,./data/g_publish.parquet,64,sage,3030,16
+0.5,0.5,0.0,"(128, 32)",0.25,het-emb,6,0.2,"(5,)",4.2446417808532715,5,8,400,6,adamw,./data/feat_store_publish.db,./data/g_publish.parquet,64,sage,3030,16
